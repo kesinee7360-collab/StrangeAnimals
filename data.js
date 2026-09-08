@@ -14,7 +14,7 @@ const categoryData = {
             {
                 "id": "hedgehog",
                 "title": "เม่นแคระ",
-                "img": "https://loremflickr.com/400/300/hedgehog",
+                "img": "https://www.google.com/imgres?q=%E0%B9%80%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B8%B0&imgurl=https%3A%2F%2Fimg.kapook.com%2Fimage%2Fpet%2Fjjo.jpg&imgrefurl=https%3A%2F%2Fpet.kapook.com%2Fview1460.html&docid=tiI5zYYI5bntXM&tbnid=V5fx7WkHZ_iphM&vet=12ahUKEwiyxrDazt6WAxWFjuEIHTnfCQ8QnPAOegQIPRAA..i&w=350&h=459&hcb=2&ved=2ahUKEwiyxrDazt6WAxWFjuEIHTnfCQ8QnPAOegQIPRAA",
                 "desc": "สัตว์เลี้ยงยอดฮิต เลี้ยงง่าย ไม่ส่งเสียงดัง เหมาะกับคนที่ไม่มีเวลามาก",
                 "care": "ให้อาหารเม็ดสำหรับเม่นแคระหรือแมวที่มีโปรตีนสูง ควรดูแลเรื่องความสะอาดและอุณหภูมิ (24-28 องศาเซลเซียส)",
                 "equip": "กรงหรือกล่องพลาสติกขนาดกว้าง, วงล้อวิ่ง (ไม่มีร่อง), ชามอาหารเซรามิก, ที่ซ่อนตัว",
