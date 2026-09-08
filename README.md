@@ -19,8 +19,8 @@ https://www.figma.com/design/tyYc4YtLgqnhpNpcYuzkcQ/strangeanimals?node-id=0-1&t
 - **Framework:** ไม่ใช้ Framework
 - **CSS / UI:** เขียน CSS เองทั้งหมด (Vanilla CSS) ควบคุม Layout ด้วย Flexbox/Grid
 - **Version Control:** Git และ GitHub
-- **Hosting:** GitHub Pages 
-- **AI Tools:** Google Gemini,Antigravity
+- **Hosting:** GitHub Pages
+- **AI Tools:** Google Gemini
 
 ## Features
 1. **หน้าแรก (Home):** นำเสนอวิสัยทัศน์ แบนเนอร์สวยงาม และรวมหมวดหมู่สัตว์เด่น
