@@ -5,7 +5,7 @@ const categoryData = {
             {
                 "id": "sugar_glider",
                 "title": "ชูการ์ไกลเดอร์",
-                "img": "https://loremflickr.com/400/300/sugar_glider",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65ttNQBwAQmeg8P0mvEvgKLdx09KjaA5KFSe79EIEZjPujHV3VmAuzfdgSZPw2haY8A-zLvEdHG3i_i9eGZytJrZlSs4rom0EDYC3pg&s=10",
                 "desc": "สัตว์เลี้ยงลูกด้วยนมขนาดเล็ก น่ารัก ขี้เล่น สามารถร่อนกลางอากาศได้ นิยมเลี้ยงกันอย่างแพร่หลาย",
                 "care": "ให้อาหารที่มีโปรตีนและผลไม้สด ต้องการเวลาเล่นและปฏิสัมพันธ์กับเจ้าของอย่างมาก ควรเลี้ยงอย่างน้อย 2 ตัว",
                 "equip": "กรงแนวตั้งขนาดใหญ่, ถ้วยอาหาร/น้ำ, เปลญวนหรือที่ซ่อนตัว, ของเล่นเชือก",
