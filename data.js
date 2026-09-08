@@ -5,7 +5,7 @@ const categoryData = {
             {
                 "id": "sugar_glider",
                 "title": "ชูการ์ไกลเดอร์",
-                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65ttNQBwAQmeg8P0mvEvgKLdx09KjaA5KFSe79EIEZjPujHV3VmAuzfdgSZPw2haY8A-zLvEdHG3i_i9eGZytJrZlSs4rom0EDYC3pg&s=10",
+                "img": "https://www.google.com/imgres?q=%E0%B8%8A%E0%B8%B9%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%84%E0%B8%81%E0%B8%A5%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100068545256113&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FFasaiSugarHouse%2F&docid=0Xy-2r8H7Yk8KM&tbnid=wsBPWLg7uZiNOM&vet=12ahUKEwiSpKmZzt6WAxU8kuEIHTygDk0QnPAOegUIuwEQAA..i&w=960&h=950&hcb=2&ved=2ahUKEwiSpKmZzt6WAxU8kuEIHTygDk0QnPAOegUIuwEQAA",
                 "desc": "สัตว์เลี้ยงลูกด้วยนมขนาดเล็ก น่ารัก ขี้เล่น สามารถร่อนกลางอากาศได้ นิยมเลี้ยงกันอย่างแพร่หลาย",
                 "care": "ให้อาหารที่มีโปรตีนและผลไม้สด ต้องการเวลาเล่นและปฏิสัมพันธ์กับเจ้าของอย่างมาก ควรเลี้ยงอย่างน้อย 2 ตัว",
                 "equip": "กรงแนวตั้งขนาดใหญ่, ถ้วยอาหาร/น้ำ, เปลญวนหรือที่ซ่อนตัว, ของเล่นเชือก",
