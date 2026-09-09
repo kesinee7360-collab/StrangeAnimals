@@ -1,0 +1,100 @@
+sugar_glider | ชูการ์ไกลเดอร์ | images/Sugar_Glider.png
+hedgehog | เม่นแคระ | images/Hedgehog.png
+chinchilla | ชินชิล่า | images/Chinchilla.png
+fennec_fox | เฟนเน็กฟ็อกซ์ (หมาจิ้งจอกทะเลทราย) | images/Fennec_Fox.png
+ferret | เฟอร์เรท | images/Ferret.png
+guinea_pig | แกสบี้ (Guinea Pig) | images/Guinea_Pig.png
+prairie_dog | แพรี่ด็อก | images/Prairie_Dog.png
+marmoset | ลิงมาร์โมเสท | images/Marmoset.png
+meerkat | เมียร์แคต | images/Meerkat.png
+racoon | แรคคูน | images/Raccoon.png
+leopard_gecko | ตุ๊กแกเสือดาว (Leopard Gecko) | images/Leopard_Gecko.png
+ball_python | งูบอลไพธอน (Ball Python) | images/Ball_Python.png
+bearded_dragon | เบียร์ดดราก้อน (มังกรเครา) | https://placehold.co/400x300?text=animal%3Flock%3D98
+crested_gecko | ตุ๊กแกหงอน (Crested Gecko) | https://placehold.co/400x300?text=animal%3Flock%3D99
+corn_snake | งูคอร์นสเนค | https://placehold.co/400x300?text=animal%3Flock%3D99
+chameleon | คามิลเลี่ยน | https://placehold.co/400x300?text=animal%3Flock%3D99
+iguana | อีกัวน่า | https://placehold.co/400x300?text=animal%3Flock%3D105
+sulcata | เต่าซูลคาต้า | https://placehold.co/400x300?text=animal%3Flock%3D115
+red_footed_tortoise | เต่าเรดฟุต | https://placehold.co/400x300?text=animal%3Flock%3D114
+blue_tongue_skink | จิ้งเหลนลิ้นน้ำเงิน | https://placehold.co/400x300?text=animal%3Flock%3D98
+cockatiel | นกค็อกคาเทล | images/Cockatiel.png
+macaw | นกแก้วมาคอว์ | https://placehold.co/400x300?text=animal%3Flock%3D109
+african_grey | แอฟริกันเกรย์ | https://placehold.co/400x300?text=animal%3Flock%3D97
+conure | ซันคอนัวร์ | https://placehold.co/400x300?text=animal%3Flock%3D99
+owl | นกฮูก (Scops Owl) | https://placehold.co/400x300?text=animal%3Flock%3D111
+lovebird | เลิฟเบิร์ด | https://placehold.co/400x300?text=animal%3Flock%3D108
+duck | เป็ดคอลดั๊ก (Call Duck) | https://placehold.co/400x300?text=animal%3Flock%3D100
+falcon | เหยี่ยว | https://placehold.co/400x300?text=animal%3Flock%3D102
+toucan | ทูแคน | https://placehold.co/400x300?text=animal%3Flock%3D116
+emu | นกอีมู | https://placehold.co/400x300?text=animal%3Flock%3D101
+axolotl | แอกโซลอเติล (Axolotl) | images/Axolotl.png
+pacman_frog | กบแพคแมน | https://placehold.co/400x300?text=animal%3Flock%3D112
+poison_dart_frog | กบลูกศรพิษ | images/poison_frog.png
+whites_tree_frog | กบต้นไม้ไวท์ (White's Tree Frog) | https://placehold.co/400x300?text=animal%3Flock%3D119
+salamander | ซาลาแมนเดอร์เสือ (Tiger Salamander) | https://placehold.co/400x300?text=animal%3Flock%3D115
+newt | นิวต์ท้องแดง (Fire-bellied Newt) | https://placehold.co/400x300?text=animal%3Flock%3D110
+african_bullfrog | อัฟริกันบูลฟร็อก | https://placehold.co/400x300?text=animal%3Flock%3D97
+tomato_frog | กบมะเขือเทศ | https://placehold.co/400x300?text=animal%3Flock%3D116
+glass_frog | กบแก้ว (Glass Frog) | https://placehold.co/400x300?text=animal%3Flock%3D103
+toad | คางคกซูรินาม (Surinam Toad) | https://placehold.co/400x300?text=animal%3Flock%3D116
+tarantula | แมงมุมทารันทูล่า | images/Tarantula.png
+whip_scorpion | แมงป่องแส้ | https://placehold.co/400x300?text=animal%3Flock%3D119
+emperor_scorpion | แมงป่องจักรพรรดิ | https://placehold.co/400x300?text=animal%3Flock%3D101
+millipede | กิ้งกือยักษ์แอฟริกา | https://placehold.co/400x300?text=animal%3Flock%3D109
+praying_mantis | ตั๊กแตนตำข้าว (Orchid Mantis) | https://placehold.co/400x300?text=animal%3Flock%3D112
+hermit_crab | ปูเสฉวนบก | https://placehold.co/400x300?text=animal%3Flock%3D104
+hissing_roach | แมลงสาบมาดากัสการ์ | https://placehold.co/400x300?text=animal%3Flock%3D104
+isopod | ไอโซพอด (Isopod) | https://placehold.co/400x300?text=animal%3Flock%3D105
+snail | หอยทากยักษ์แอฟริกา | https://placehold.co/400x300?text=animal%3Flock%3D115
+centipede | ตะขาบยักษ์ | https://placehold.co/400x300?text=animal%3Flock%3D99
+flowerhorn | ปลาหมอสี (Flowerhorn) | images/Arowana.png
+arowana | ปลาอะโรวาน่า (ปลามังกร) | images/Arowana.png
+stingray | ปลากระเบนน้ำจืด (Motoro Stingray) | images/Freshwater_Stingray.png
+puffer | ปลาปักเป้าน้ำจืด (Mbu Puffer) | https://placehold.co/400x300?text=animal%3Flock%3D112
+bichir | ปลาไบเคอร์ (Bichir / Dinosaur Eel) | https://placehold.co/400x300?text=animal%3Flock%3D98
+gar | ปลาอัลลิเกเตอร์ การ์ (จระเข้การ์) | https://placehold.co/400x300?text=animal%3Flock%3D103
+discus | ปลาปอมปาดัวร์ (Discus) | https://placehold.co/400x300?text=animal%3Flock%3D100
+lungfish | ปลาปอด (Lungfish) | https://placehold.co/400x300?text=animal%3Flock%3D108
+peacock_bass | ปลาพีค็อกแบส | https://placehold.co/400x300?text=animal%3Flock%3D112
+betta_wild | ปลากัดป่า | https://placehold.co/400x300?text=animal%3Flock%3D98
+savannah | แมวซาวันนาห์ | images/Savannah_Cat.png
+wolfdog | สุนัขป่าลูกผสม (Wolfdog) | https://placehold.co/400x300?text=animal%3Flock%3D119
+bengal | แมวเบงกอล | https://placehold.co/400x300?text=animal%3Flock%3D98
+liger | ไลเกอร์ (Liger) *ข้อมูลศึกษา | https://placehold.co/400x300?text=animal%3Flock%3D108
+zonkey | ซองกี้ (Zonkey) *ข้อมูลศึกษา | https://placehold.co/400x300?text=animal%3Flock%3D122
+coydog | คอยด็อก (Coydog) | https://placehold.co/400x300?text=animal%3Flock%3D99
+mule | ล่อ (Mule) | https://placehold.co/400x300?text=animal%3Flock%3D109
+chito | แมวชีโต้ (Cheetoh) | https://placehold.co/400x300?text=animal%3Flock%3D99
+geep | กิ๊ป (Geep) *ข้อมูลศึกษา | https://placehold.co/400x300?text=animal%3Flock%3D103
+dzo | โซ (Dzo) *ข้อมูลศึกษา | https://placehold.co/400x300?text=animal%3Flock%3D100
+capybara | คาปิบารา | images/Capybara.png
+dwarf_croc | จระเข้แคระ | https://placehold.co/400x300?text=animal%3Flock%3D100
+wallaby | จิงโจ้แคระ (Wallaby) | https://placehold.co/400x300?text=animal%3Flock%3D119
+raccoon_dog | แรคคูนด็อก (Tanuki) | images/Raccoon.png
+slow_loris | นางอาย (Slow Loris) *ข้อมูลศึกษา | https://placehold.co/400x300?text=animal%3Flock%3D115
+fennec_fox_wild | จิ้งจอกแดง (Red Fox) | https://placehold.co/400x300?text=animal%3Flock%3D102
+otter | นากเล็กเล็บสั้น (Asian Small-clawed Otter) | https://placehold.co/400x300?text=animal%3Flock%3D111
+skunk | สกั๊งค์ (Skunk) | https://placehold.co/400x300?text=animal%3Flock%3D115
+kinkajou | คิงคาจู (Kinkajou) | https://placehold.co/400x300?text=animal%3Flock%3D107
+genet | เจเน็ต (Genet) | https://placehold.co/400x300?text=animal%3Flock%3D103
+venus_flytrap | พืชกินแมลง (กาบหอยแครง) | images/Venus_flytrap.png
+slime_mold | เมือกเห็ดราสีสะท้อนแสง (Slime Mold) | https://placehold.co/400x300?text=animal%3Flock%3D115
+pitcher_plant | หม้อข้าวหม้อแกงลิง (Nepenthes) | https://placehold.co/400x300?text=animal%3Flock%3D112
+sundew | หยาดน้ำค้าง (Sundew) | https://placehold.co/400x300?text=animal%3Flock%3D115
+lithops | ไลทอป (Lithops / หินมีชีวิต) | https://placehold.co/400x300?text=animal%3Flock%3D108
+marimo | มาริโมะ (Marimo Moss Ball) | https://placehold.co/400x300?text=animal%3Flock%3D109
+air_plant | ทิลแลนเซีย (Air Plant) | https://placehold.co/400x300?text=animal%3Flock%3D97
+mimosa | ไมยราบ (Sensitive Plant) | https://placehold.co/400x300?text=animal%3Flock%3D109
+dancing_plant | ต้นช้อยนางรำ (Dancing Plant) | https://placehold.co/400x300?text=animal%3Flock%3D100
+corpse_flower | ดอกบุกยักษ์ (Corpse Flower) *ข้อมูลศึกษา | https://placehold.co/400x300?text=animal%3Flock%3D99
+glofish_tetras | ปลาเรืองแสง (GloFish Tetras) | images/GloFish.png
+glofish_barb | เสือสุมาตราเรืองแสง (GloFish Barb) | https://placehold.co/400x300?text=animal%3Flock%3D103
+glofish_danio | ปลาม้าลายเรืองแสง (GloFish Danio) | https://placehold.co/400x300?text=animal%3Flock%3D103
+glofish_shark | ฉลามเรืองแสง (GloFish Shark) | https://placehold.co/400x300?text=animal%3Flock%3D103
+glofish_betta | ปลากัดเรืองแสง (GloFish Betta) | https://placehold.co/400x300?text=animal%3Flock%3D103
+glofrog | กบเรืองแสง (GloFrog) | https://placehold.co/400x300?text=animal%3Flock%3D103
+glo_cory | ปลาแพะเรืองแสง (GloFish Corydoras) | https://placehold.co/400x300?text=animal%3Flock%3D103
+transgenic_mouse | หนูเรืองแสง (GFP Mouse) *ข้อมูลศึกษา | https://placehold.co/400x300?text=animal%3Flock%3D116
+transgenic_pig | หมูเรืองแสง *ข้อมูลศึกษา | https://placehold.co/400x300?text=animal%3Flock%3D116
+glowing_plant | ต้นไม้เรืองแสง (Firefly Petunia) *ข้อมูลศึกษา | https://placehold.co/400x300?text=animal%3Flock%3D103

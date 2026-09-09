@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>กฎหมาย & ข้อห้าม - Strange Animals</title>
+    <link rel="stylesheet" href="style.css?v=7">
+    <style>
+        .law-section-title {
+            color: var(--primary-red);
+            font-size: 2rem;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            border-bottom: 3px solid var(--primary-green);
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+        .law-list {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        .law-item {
+            background-color: var(--white);
+            padding: 30px;
+            border-left: 5px solid var(--primary-red);
+            border-radius: 0 15px 15px 0;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        .law-item.green-border {
+            border-left: 5px solid var(--primary-green);
+        }
+        .law-item h3 {
+            margin-bottom: 15px;
+            font-size: 1.4rem;
+        }
+        .law-item p {
+            margin-bottom: 10px;
+            line-height: 1.6;
+            color: #444;
+        }
+        .law-item ul {
+            margin-left: 20px;
+            margin-bottom: 15px;
+            color: #444;
+            line-height: 1.6;
+        }
+        .law-item strong {
+            color: #222;
+        }
+        .highlight-box {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 15px;
+            border-left: 3px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+<!-- นำเข้า Google Material Symbols -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <header>
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <img src="https://loremflickr.com/100/100/animal?lock=10" alt="Logo">
+                <span style="font-weight: 700; color: var(--primary-red); font-size: 1.5rem; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">Strange Animals</span>
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="index.html">หน้าแรก</a></li>
+                    <li><a href="about.html">เกี่ยวกับเรา</a></li>
+                    <li><a href="types.html">ประเภทสัตว์</a></li>
+                    <li><a href="laws.html" class="active">กฎหมาย & ข้อห้าม</a></li>
+                    <li><a href="contact.html">ติดต่อ</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <h1 class="section-title" style="color: var(--primary-red);">กฎหมาย & ข้อห้าม</h1>
+
+        <h2 class="law-section-title">กฎหมายที่เกี่ยวข้องกับการเลี้ยงสัตว์แปลก (Legality)</h2>
+        <div class="law-list">
+            <div class="law-item">
+                <h3 style="color: var(--primary-red);">1. พ.ร.บ. สงวนและคุ้มครองสัตว์ป่า</h3>
+                <p>กฎหมายของไทยมีข้อกำหนดชัดเจนเกี่ยวกับการห้ามล่า ห้ามค้า และห้ามครอบครองสัตว์ป่าสงวนและสัตว์ป่าคุ้มครองของไทยเด็ดขาด สัตว์แปลกส่วนใหญ่เป็นสัตว์นำเข้าจากต่างประเทศ แต่ผู้เลี้ยงก็ต้องมีหลักฐานยืนยันที่มาที่ไปให้ชัดเจน</p>
+                <ul>
+                    <li><strong>1.1 สัตว์ที่เลี้ยงได้เสรี (ไม่ต้องมีใบอนุญาตครอบครอง):</strong> ชูการ์ไกลเดอร์, เม่นแคระ, คอร์นสเนก, เบียร์ดดรากอน, กบฮอร์นฟรอก, แมงมุมทารันทูล่า, และแมว/สุนัขลูกผสม</li>
+                    <li><strong>1.2 สัตว์ป่าควบคุม (ต้องขออนุญาตครอบครอง):</strong> สัตว์ป่าดั้งเดิมที่เพาะพันธุ์ในกรงเลี้ยง เช่น คาปิบารา, ลิงมาโมเซท หรือ จระเข้แคระ ผู้ครอบครองจะต้องแจ้งการครอบครองต่อกรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช</li>
+                </ul>
+            </div>
+            
+            <div class="law-item green-border">
+                <h3 style="color: var(--primary-green);">2. อนุสัญญาไซเตส (CITES)</h3>
+                <p>เป็นกฎหมายระหว่างประเทศที่ควบคุมการค้าสัตว์ป่าและพืชป่าที่ใกล้สูญพันธุ์ สัตว์แปลกหลายชนิดในไทยต้องมี "ใบรับรองไซเตส" หรือหลักฐานการเพาะพันธุ์ (Breeder Certificate) เพื่อยืนยันว่าไม่ได้จับมาจากป่าธรรมชาติ</p>
+                <div class="highlight-box" style="border-left-color: var(--primary-green);">
+                    <p><strong>กลุ่มที่มักต้องใช้เอกสารไซเตส:</strong> สัตว์ปีก (เช่น นกแก้วมาคอว์, ซันคอนัวร์), สัตว์น้ำ (เช่น ปลามังกร/อะโรวาน่า), สัตว์เลื้อยคลานบางชนิด (เช่น เต่าซูคาต้า, งูบอลไพธอน)</p>
+                    <p><strong>คำแนะนำก่อนซื้อ:</strong> ผู้เลี้ยงควรขอใบเสร็จรับเงิน ใบกำกับภาษี หรือสำเนาใบอนุญาตนำเข้าไซเตสจากร้านค้าหรือฟาร์มเก็บไว้เป็นหลักฐานเสมอ</p>
+                </div>
+            </div>
+
+            <div class="law-item">
+                <h3 style="color: var(--primary-red);">3. กฎหมายอื่นๆ ที่ควรรู้</h3>
+                <p><strong>พ.ร.บ. ป้องกันการทารุณกรรมและการจัดสวัสดิภาพสัตว์:</strong> ผู้เลี้ยงมีหน้าที่ทางกฎหมายในการจัดหาน้ำ อาหาร สภาพแวดล้อมที่เหมาะสม และรักษาเมื่อสัตว์ป่วย การทิ้งขว้างหรือปล่อยปละละเลยถือว่ามีความผิด</p>
+                <p><strong>กฎหมายความปลอดภัยทางชีวภาพ (Biosafety):</strong> สำหรับสัตว์ตัดแต่งพันธุกรรม (GloPets) การครอบครองอาจไม่ผิด พ.ร.บ. สัตว์ป่า แต่อาจมีข้อจำกัดในการนำเข้าหรือเพาะพันธุ์จำหน่ายในบางประเทศ ควรตรวจสอบข้อกฎหมายล่าสุดของกรมประมงร่วมด้วย</p>
+            </div>
+        </div>
+
+        <h2 class="law-section-title">ข้อควรระวังและความรับผิดชอบ (Cautions & Risks)</h2>
+        <div class="law-list">
+            <div class="law-item green-border">
+                <h3 style="color: var(--primary-green);">1. ห้ามปล่อยสู่ธรรมชาติเด็ดขาด (Invasive Species)</h3>
+                <p>นี่คือกฎเหล็กของการเลี้ยงสัตว์แปลก การนำสัตว์แปลกไปปล่อยในแม่น้ำ ป่า หรือแหล่งชุมชน ไม่ใช่การทำบุญ แต่เป็นการทำลายระบบนิเวศ</p>
+                <ul>
+                    <li>สัตว์ต่างถิ่น (Alien Species) จะเข้าไปแย่งอาหารและทำลายสัตว์ท้องถิ่นของไทย</li>
+                    <li>สัตว์ดัดแปลงพันธุกรรม (GloPets) หรือสัตว์ลูกผสม หากหลุดไปผสมพันธุ์กับสัตว์ท้องถิ่น จะทำให้เสียสายพันธุ์ดั้งเดิม</li>
+                </ul>
+                <div class="highlight-box" style="border-left-color: var(--primary-green);">
+                    <p><strong>วิธีแก้ปัญหา:</strong> หากเลี้ยงไม่ไหว ต้องหาบ้านใหม่ให้สัตว์ หรือติดต่อหน่วยงานที่รับอุปการะ ห้ามปล่อยทิ้งเด็ดขาด</p>
+                </div>
+            </div>
+
+            <div class="law-item">
+                <h3 style="color: var(--primary-red);">2. อันตรายทางร่างกายและสารพิษ (Physical & Toxin Risks)</h3>
+                <p>สัตว์แปลกหลายชนิดมีกลไกป้องกันตัวตามธรรมชาติที่ผู้เลี้ยงต้องระวัง:</p>
+                <ul>
+                    <li><strong>แมงมุมทารันทูล่า:</strong> มีเขี้ยวและ "ขนคัน" (Urticating hairs) บริเวณก้น หากปลิวเข้าตาหรือสัมผัสผิวหนังจะทำให้ระคายเคืองอย่างรุนแรง</li>
+                    <li><strong>แมงป่องแส้ (Vinegaroon):</strong> แม้ไม่มีพิษ แต่สามารถพ่นสารคัดหลั่งที่มีฤทธิ์เป็นกรด (คล้ายน้ำส้มสายชู) ใส่ศัตรูได้</li>
+                </ul>
+            </div>
+
+            <div class="law-item green-border">
+                <h3 style="color: var(--primary-green);">3. โรคติดต่อจากสัตว์สู่คน (Zoonotic Diseases)</h3>
+                <ul>
+                    <li><strong>เชื้อซัลโมเนลลา (Salmonella):</strong> มักพบในสัตว์เลื้อยคลานและสัตว์ครึ่งบกครึ่งน้ำ ทำให้เกิดอาการท้องร่วงรุนแรงในคน</li>
+                    <li><strong>โรคไข้นกแก้ว (Psittacosis):</strong> โรคระบบทางเดินหายใจที่ติดต่อจากนกสู่คน</li>
+                </ul>
+                <div class="highlight-box" style="border-left-color: var(--primary-green);">
+                    <p><strong>วิธีป้องกัน:</strong> ล้างมือด้วยสบู่ทุกครั้งหลังจับตัวสัตว์ ทำความสะอาดกรง หรือสัมผัสอุปกรณ์เลี้ยง ห้ามล้างอุปกรณ์ของสัตว์ในอ่างล้างจานเด็ดขาด</p>
+                </div>
+            </div>
+
+            <div class="law-item">
+                <h3 style="color: var(--primary-red);">4. ภาระผูกพันระยะยาว (Long-Term Commitment)</h3>
+                <p><strong>อายุขัยที่ยืนยาว:</strong> สัตว์หลายชนิดมีอายุยืนยาวมาก เช่น เต่าซูคาต้า (70+ ปี), นกแก้วมาคอว์ (50+ ปี), งูบอลไพธอน (30+ ปี) ผู้เลี้ยงต้องมั่นใจว่าจะดูแลเขาได้ตลอดชีวิต</p>
+                <p><strong>ค่าใช้จ่ายทางการแพทย์:</strong> สัตว์แปลกไม่สามารถรักษากับคลินิกทั่วไปได้ ต้องรักษากับ สัตวแพทย์เฉพาะทางสัตว์แปลก (Exotic Vet) ซึ่งมีค่าใช้จ่ายสูงกว่าปกติ และคลินิกเฉพาะทางยังหาได้ยากในบางพื้นที่</p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-main">
+            <div class="footer-left-shape"></div>
+            <div class="footer-content-wrapper">
+                <div class="footer-logo">
+                    <img src="https://loremflickr.com/150/150/animal?lock=10" alt="Footer Logo">
+                </div>
+                <div class="footer-company">
+                    <h3><span style="font-size: 1.5rem;">บริษัท</span> เอ็กโซติก เซ็นเตอร์ (ประเทศไทย) จำกัด</h3>
+                    <p>Exotic Center (Thailand) Co., Ltd.</p>
+                    <p>แพลตฟอร์มสื่อกลางและศูนย์รวมข้อมูลสิ่งมีชีวิตพิเศษครบวงจร</p>
+                    <p>มุ่งมั่นส่งเสริมการเลี้ยงดูอย่างถูกวิธีตามมาตรฐานสากล</p>
+                </div>
+                <div class="footer-contact">
+                    <h4>ช่องทางการติดต่อและประสานงาน</h4>
+                    <ul>
+                        <li><span class="icon">🌐</span> เว็บไซต์: exoticcenterthailand.com</li>
+                        <li><span class="icon">💬</span> Line Official: @exotichub</li>
+                        <li><span class="icon">📧</span> อีเมลธุรกิจ: contact@exoticcenterthailand.com</li>
+                        <li><span class="icon">📞</span> ฝ่ายประชาสัมพันธ์: 02-123-4567 (จันทร์ - ศุกร์ 09:00 - 18:00 น.)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 Exotic Center (Thailand) Co., Ltd. All Rights Reserved.
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <!-- Mobile Bottom Navigation -->
+    <nav class="mobile-bottom-nav">
+        <a href="index.html"><span class="material-symbols-outlined">home</span>หน้าแรก</a>
+        <a href="about.html"><span class="material-symbols-outlined">corporate_fare</span>เกี่ยวกับเรา</a>
+        <a href="types.html"><span class="material-symbols-outlined">pets</span>ประเภทสัตว์</a>
+        <a href="laws.html"><span class="material-symbols-outlined">gavel</span>กฎหมาย</a>
+        <a href="contact.html"><span class="material-symbols-outlined">call</span>ติดต่อ</a>
+    </nav>
+
+    <!-- Scroll to Top Button -->
+    <button id="scrollTopBtn" title="ย้อนขึ้นข้างบน" style="display: none;" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">
+        &#8679;
+    </button>
+    <script>
+        // Scroll to Top Logic
+        window.addEventListener("scroll", function() {
+            const btn = document.getElementById("scrollTopBtn");
+            if (btn) {
+                if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+                    btn.style.display = "flex";
+                } else {
+                    btn.style.display = "none";
+                }
+            }
+        });
+    </script>
+
+</body>
+</html>

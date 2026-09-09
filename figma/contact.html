@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ติดต่อเรา - Strange Animals</title>
+    <link rel="stylesheet" href="style.css?v=7">
+</head>
+<body>
+<!-- นำเข้า Google Material Symbols -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <header>
+        <div class="header-inner">
+            <a href="index.html" class="logo">
+                <img src="https://loremflickr.com/100/100/animal?lock=10" alt="Logo">
+                <span style="font-weight: 700; color: var(--primary-red); font-size: 1.5rem; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">Strange Animals</span>
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="index.html">หน้าแรก</a></li>
+                    <li><a href="about.html">เกี่ยวกับเรา</a></li>
+                    <li><a href="types.html">ประเภทสัตว์</a></li>
+                    <li><a href="laws.html">กฎหมาย & ข้อห้าม</a></li>
+                    <li><a href="contact.html" class="active">ติดต่อ</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Banner Top -->
+        <div style="width: 100%; height: 250px; border-radius: 15px; overflow: hidden; margin-bottom: 40px; position: relative;">
+            <img src="https://loremflickr.com/1200/600/nature?lock=32" alt="Contact Banner" style="width: 100%; height: 100%; object-fit: cover;">
+            <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.4); display: flex; align-items: center; justify-content: center;">
+                <h1 style="color: white; font-size: 3rem;">ติดต่อเราได้ที่นี่</h1>
+            </div>
+        </div>
+
+        <div class="contact-grid-new">
+            <!-- Left Column -->
+            <div class="contact-col-left">
+                <h2 class="contact-heading red">Q&A ที่พบบ่อย</h2>
+                <div class="qa-box">
+                    <p><strong>Q: อยู่หอพักหรือคอนโด เลี้ยงตัวไหนดี?</strong><br>A: แนะนำ ตุ๊กแกเสือดาว หรือนกฮูกแคระ เพราะใช้พื้นที่น้อย ไม่ส่งเสียงดัง และไม่มีกลิ่นรบกวน</p>
+                    <p><strong>Q: มือใหม่ 100% ควรเริ่มต้นที่ตัวไหนดี?</strong><br>A: แนะนำ งูคอร์นสเนค หรือ เต่าซูคาต้า เพราะทนทานต่อสภาพอากาศไทย เลี้ยงง่าย และเชื่อง</p>
+                    <p><strong>Q: ถ้าป่วยมีคลินิกรักษาสัตว์พิเศษให้ไหม?</strong><br>A: มีแน่นอนครับ ต้องพาไปรักษาที่โรงพยาบาลรักษาสัตว์พิเศษ (Exotic Vet) เท่านั้น</p>
+                </div>
+
+                <h2 class="contact-heading red" style="margin-top: 40px;">MAP : แผนที่</h2>
+                <div class="map-container">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.903808003666!2d100.5583681!3d13.7242858!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29f1ee329606d%3A0xbcc0e5135ff37ab4!2sKhlong%20Toei%2C%20Bangkok!5e0!3m2!1sen!2sth!4v1700000000000!5m2!1sen!2sth" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+            </div>
+
+            <!-- Right Column -->
+            <div class="contact-col-right">
+                <h2 class="contact-heading green">ช่องทางออนไลน์</h2>
+                <div class="social-links-box">
+                    <div class="social-row">
+                        <div class="social-icon fb"><span>f</span></div>
+                        <div class="social-pill">ExoticHub - ชุมชนคนรักสัตว์แปลก</div>
+                    </div>
+                    <div class="social-row">
+                        <div class="social-icon line"><span>LINE</span></div>
+                        <div class="social-pill">@ExoticHub</div>
+                    </div>
+                    <div class="social-row">
+                        <div class="social-icon ig"><div class="ig-inner"></div></div>
+                        <div class="social-pill">ExoticHub | สัตว์แปลกน่าเลี้ยง</div>
+                    </div>
+                </div>
+
+                <h2 class="contact-heading red" style="margin-top: 40px;">ติดต่อเรา</h2>
+                <div class="custom-contact-form">
+                    <form action="#" method="POST">
+                        <div class="form-group-custom">
+                            <label>ชื่อ</label>
+                            <input type="text" name="name" required>
+                        </div>
+                        <div class="form-group-custom">
+                            <label>อีเมล</label>
+                            <input type="email" name="email" required>
+                        </div>
+                        <div class="form-group-custom">
+                            <label>เบอร์โทร</label>
+                            <input type="tel" name="phone" required>
+                        </div>
+                        <div class="form-group-custom">
+                            <label>ข้อความ</label>
+                            <textarea name="message" rows="4" required></textarea>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-main">
+            <div class="footer-left-shape"></div>
+            <div class="footer-content-wrapper">
+                <div class="footer-logo">
+                    <img src="https://loremflickr.com/150/150/animal?lock=10" alt="Footer Logo">
+                </div>
+                <div class="footer-company">
+                    <h3><span style="font-size: 1.5rem;">บริษัท</span> เอ็กโซติก เซ็นเตอร์ (ประเทศไทย) จำกัด</h3>
+                    <p>Exotic Center (Thailand) Co., Ltd.</p>
+                    <p>แพลตฟอร์มสื่อกลางและศูนย์รวมข้อมูลสิ่งมีชีวิตพิเศษครบวงจร</p>
+                    <p>มุ่งมั่นส่งเสริมการเลี้ยงดูอย่างถูกวิธีตามมาตรฐานสากล</p>
+                </div>
+                <div class="footer-contact">
+                    <h4>ช่องทางการติดต่อและประสานงาน</h4>
+                    <ul>
+                        <li><span class="icon">🌐</span> เว็บไซต์: exoticcenterthailand.com</li>
+                        <li><span class="icon">💬</span> Line Official: @exotichub</li>
+                        <li><span class="icon">📧</span> อีเมลธุรกิจ: contact@exoticcenterthailand.com</li>
+                        <li><span class="icon">📞</span> ฝ่ายประชาสัมพันธ์: 02-123-4567 (จันทร์ - ศุกร์ 09:00 - 18:00 น.)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 Exotic Center (Thailand) Co., Ltd. All Rights Reserved.
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <!-- Mobile Bottom Navigation -->
+    <nav class="mobile-bottom-nav">
+        <a href="index.html"><span class="material-symbols-outlined">home</span>หน้าแรก</a>
+        <a href="about.html"><span class="material-symbols-outlined">corporate_fare</span>เกี่ยวกับเรา</a>
+        <a href="types.html"><span class="material-symbols-outlined">pets</span>ประเภทสัตว์</a>
+        <a href="laws.html"><span class="material-symbols-outlined">gavel</span>กฎหมาย</a>
+        <a href="contact.html"><span class="material-symbols-outlined">call</span>ติดต่อ</a>
+    </nav>
+
+    <!-- Scroll to Top Button -->
+    <button id="scrollTopBtn" title="ย้อนขึ้นข้างบน" style="display: none;" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">
+        &#8679;
+    </button>
+    <script>
+        // Scroll to Top Logic
+        window.addEventListener("scroll", function() {
+            const btn = document.getElementById("scrollTopBtn");
+            if (btn) {
+                if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) {
+                    btn.style.display = "flex";
+                } else {
+                    btn.style.display = "none";
+                }
+            }
+        });
+    </script>
+
+</body>
+</html>
